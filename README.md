@@ -1,6 +1,6 @@
 # Awesome OpenXR [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-[<img src="openxr-logo.svg" align="right" width="140">](https://www.khronos.org/openxr/)
+[<img src="openxr-logo.svg" align="right" width="300">](https://www.khronos.org/openxr/)
 
 > A curated list of OpenXR links and resources.
 
