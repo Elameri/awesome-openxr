@@ -13,6 +13,7 @@
   - [Runtimes](#runtimes)
   - [Engines](#engines)
 - [Tutorials](#tutorials)
+- [Projects](#projects)
 - [Communities](#communities)
 - [Related Lists](#related-lists)
 
@@ -55,6 +56,8 @@
 
 - [Introduction to OpenXR](https://playdeck.net/blog/introduction-to-openxr) - Building a cross-platform Mixed Reality application from scratch, without game engines, and deploying it to Hololens 2.
 
+## Projects
+- [Lua Virtual Reality Framework](https://github.com/bjornbytes/lovr)
 
 ## Communities
 
