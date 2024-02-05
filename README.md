@@ -57,7 +57,10 @@
 - [Introduction to OpenXR](https://playdeck.net/blog/introduction-to-openxr) - Building a cross-platform Mixed Reality application from scratch, without game engines, and deploying it to Hololens 2.
 
 ## Projects
-- [Lua Virtual Reality Framework](https://github.com/bjornbytes/lovr)
+- [LOVR - Lua Virtual Reality Framework](https://github.com/bjornbytes/lovr)
+- [LWJGL - Java library that enables cross-platform access to popular native graphics development APIs](https://github.com/LWJGL/lwjgl3)
+- [Open Brush - A free fork of Tilt Brush, a room-scale 3D-painting virtual-reality application](https://github.com/icosa-foundation/open-brush)
+
 
 ## Communities
 
