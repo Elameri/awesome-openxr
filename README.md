@@ -10,8 +10,8 @@
 ## Contents
 - [Notable Apps](#notable-apps)
 - [Development](#development)
-  - [Engines](#engines)
   - [Runtimes](#runtimes)
+  - [Engines](#engines)
 - [Tutorials](#tutorials)
 - [Communities](#communities)
 - [Related Lists](#related-lists)
@@ -24,29 +24,34 @@
 
 ## Development
 
+### Runtimes
+
+> [About OpenXR runtimes](https://monado.freedesktop.org/about-runtimes.html) - General background information about OpenXR runtimes.
+
+- Bytedance: [OpenXR Mobile SDK](https://developer-global.pico-interactive.com/sdk?deviceId=1&platformId=3&itemId=11)
+- Canon: [MREAL Platform Displays and Headsets](https://www.canon-its.co.jp/files/user/solution/mr/lp/)
+- Collabora: [Open source OpenXR implementation for a variety of headsets on Linux and other platforms](http://monado.dev/)
+- HTC: [OpenXR PC and Mobile support](https://developer.vive.com/resources/openxr/)
+- Magic Leap: [OpenXR instructions for Magic Leap 2](https://developer-docs.magicleap.cloud/docs/guides/native/native-openxr-setup)
+- Meta: [OpenXR Mobile SDK](https://developer.oculus.com/downloads/package/oculus-openxr-mobile-sdk/), [OpenXR PC Support](https://developer.oculus.com/documentation/native/pc/dg-openxr)
+- Microsoft: [OpenXR runtime for Windows Mixed Reality headsets](https://aka.ms/openxr)
+- SteamVR: [OpenXR runtime for all supported headsets on Windows](http://steamvr.com/)
+- Varjo: [OpenXR runtime for all supported Varjo headsets](https://developer.varjo.com/docs/openxr/openxr)
+
 ### Engines
 - [Unreal](https://unity.com/) - One of the most used game engines, developed by Epic Games, and supporting OpenXR as of version 4.23.
   - [Official Documentation](https://docs.unrealengine.com/4.26/en-US/SharingAndReleasing/XRDevelopment/OpenXR/)
 
 - [Unity](https://unity.com/) - A very popular game engine supporting OpenXR as of version 2020.2.0.
-  - [Official Documentation](https://docs.unity3d.com/Packages/com.unity.xr.openxr@0.1/manual/index.html)
+  - [Official Documentation](https://docs.unity3d.com/Packages/com.unity.xr.openxr@1.10/manual/index.html)
 
 - [Godot](https://godotengine.org/) - A cross-platform, open-source engine with OpenXR support as of version 3.3.
-  - [Official Documentation](https://github.com/GodotVR/godot_openxr/wiki)
-
-
-### Runtimes
-
-> [About OpenXR runtimes](https://monado.freedesktop.org/about-runtimes.html) - General background information about OpenXR runtimes.
-- [Oculus OpenXR](https://developer.oculus.com/documentation/native/pc/dg-openxr/)
-- [Varjo OpenXR](https://developer.varjo.com/docs/openxr/openxr) 
-- [Monado](https://monado.freedesktop.org/)
-- [SteamVR](https://store.steampowered.com/news/app/250820/view/2396425843528787269)
+  - [Official Documentation](https://docs.godotengine.org/en/3.5/tutorials/vr/openxr/index.html)
 
 
 ## Tutorials
 
-- [Getting started with OpenXR](https://docs.microsoft.com/en-us/windows/mixed-reality/develop/native/openxr-getting-started#getting-started-with-openxr-for-windows-mixed-reality-headsets) - Microsoft guide to start developing using OpenXR for HoloLens 2 and Windows Mixed Reality headset.
+- [Getting started with OpenXR](https://learn.microsoft.com/en-us/windows/mixed-reality/develop/native/openxr-getting-started) - Microsoft guide to start developing using OpenXR for HoloLens 2 and Windows Mixed Reality headset.
 
 - [Introduction to OpenXR](https://playdeck.net/blog/introduction-to-openxr) - Building a cross-platform Mixed Reality application from scratch, without game engines, and deploying it to Hololens 2.
 
